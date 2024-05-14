@@ -1,3 +1,3 @@
 YOUTUBE_MANAGER MONGODB
 
-![Mongodb](D:\youtube+mongodb\Image.png)
+![Mongodb](Image.png)
